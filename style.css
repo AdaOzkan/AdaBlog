@@ -1,0 +1,27 @@
+body{
+  margin:0;
+  font-family:Arial;
+}
+
+nav{
+  background:#111;
+  padding:10px;
+}
+
+nav a{
+  color:white;
+  margin-right:15px;
+  text-decoration:none;
+}
+
+.hero{
+  padding:40px;
+}
+
+.login-container{
+  height:100vh;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+}
